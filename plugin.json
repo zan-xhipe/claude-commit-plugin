@@ -1,0 +1,9 @@
+{
+  "name": "commit-crafter",
+  "version": "1.0.0",
+  "description": "Secure, well-documented git commits with automatic security verification",
+  "author": "Pieter",
+  "repository": "",
+  "license": "MIT",
+  "keywords": ["git", "commit", "security", "workflow"]
+}
